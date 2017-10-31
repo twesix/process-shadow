@@ -1,0 +1,10 @@
+{
+  "name": "process-shadow",
+  "version": "0.0.2",
+  "author": "twesix",
+  "description": "a simple way to make your nodejs process get synchronous with other process",
+  "keywords": ["nodejs", "process", "monitoring"],
+  "dependencies": {
+    
+  }
+}
